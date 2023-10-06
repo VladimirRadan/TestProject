@@ -19,6 +19,8 @@ public class Main {
 
         System.out.println("Ispis sa branch-a add-new-tests");
 
+        System.out.println("Ispis new branch - old code!");
+
     }
 
 }
